@@ -8,6 +8,11 @@
   <img src="https://img.shields.io/badge/Type-Report+Bot-1DA1F2?style=for-the-badge&logo=twitter" />
 </p>
 
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="64" height="64" />
+</p>
+
 **🤖 Twitter / X Report Bot Free** — automated mass-reporting tool for Twitter / X. Sends reports to Twitter / X moderation at scale, fully automated. Download for 2026. **No limits. No hidden fees.**
 
 <p align="center">
